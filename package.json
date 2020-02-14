@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Example project for setting up CoPilot with an NPM project built with Travis CI",
   "main": "index.js",
-  
-   "dependencies": {
-     "registry-sync": "2.0.4", 
-     "asti": "0.0.5"
+  "dependencies": {
+    "registry-sync": "2.0.4",
+    "asti": "0.0.2"
   }
 }
