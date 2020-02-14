@@ -4,7 +4,7 @@
   "description": "Example project for setting up CoPilot with an NPM project built with Travis CI",
   "main": "index.js",
   "dependencies": {
-    "registry-sync": "2.3.6",
-    "asti": "0.0.5"
+    "registry-sync": "2.0.4",
+    "asti": "0.0.2"
   }
 }
